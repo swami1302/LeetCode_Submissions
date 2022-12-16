@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/happy-number/description/
+
 class Solution:
     def isHappy(self, n: int) -> bool:
         v=set() #using Set in order for fast memory
